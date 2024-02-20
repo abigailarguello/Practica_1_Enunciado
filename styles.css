@@ -15,3 +15,8 @@ body, h1, p {
     #last_p {
     color: green;
     }    
+    #profe{
+        text-align: center;
+        font-weight: bold;
+        color: khaki;
+    }
